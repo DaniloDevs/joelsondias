@@ -1,0 +1,31 @@
+*{
+     margin: 0;
+     padding: 0;
+}
+
+#fundo {
+     position: absolute;
+     width: 100vw;
+     height: 100vh;
+     z-index: -1;
+}
+
+div { 
+     text-align: center;
+     display: flex; 
+     gap: 1rem;
+     padding-top: 10rem ;
+     margin: 0 auto;
+     
+}
+
+
+h1 {
+     align-self: center;
+}
+
+body {
+     display: flex;
+     height: 100%;
+     width: 100%;
+}
